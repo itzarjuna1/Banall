@@ -33,7 +33,7 @@ HELP_MSG="""
 
 ⨷/unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴍᴇssᴀɢᴇs ɪɴ ᴀ ɢʀᴏᴜᴘ.
 
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [Hell x community](https://t.me/departed_fr)
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [ʜᴇʟʟ x ᴄᴏᴍᴍᴜɴɪᴛʏ](https://t.me/hell_x_community)
 """
 
 
