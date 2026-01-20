@@ -1,10 +1,10 @@
 import os
 class Config:
-    API_ID=22981583
-    API_HASH="c02ca0834d5d92ffb31fea2b50060195"
-    TOKEN="7156025226:AAFaTvFJwfkHLGcP2JZqY6GbfnUfajkQY5o"
-    SUDO = list(int(i) for i in os.environ.get("SUDO", "6752444356").split(" "))
-    START_IMG="https://te.legra.ph/file/735920504b44b3565242a.jpg"
-    BOT_ID=7156025226
-    BOT_USERNAME="SOMEONE47BOT"
-    BOT_NAME="SOMEONE47BOT"
+    API_ID="23450648"
+    API_HASH="177973c53d36a5db484cabfce1b9bf2f"
+    TOKEN=""
+    SUDO = list(int(i) for i in os.environ.get("SUDO", "7651303468").split("7720230239,7487670897 "))
+    START_IMG="https://files.catbox.moe/96taq6.png"
+    BOT_ID=8285523518
+    BOT_USERNAME="gxmassbot"
+    BOT_NAME="gxmassbot"
